@@ -1,0 +1,56 @@
+h1 {
+	background: rgba(7,89,200,1.00);
+	
+}
+
+body {
+	background-image: url(../../../images/PHOTO_20170413_164434_fx.jpg)
+}
+
+
+
+div.container-fluid {
+	background-color:rgba(0,0,0,0.71);
+	color: rgba(255,255,255,1.00);
+	
+
+}
+
+
+
+a.navbar-brand {
+	
+	padding: 15px;
+	font-size: 65px;
+	
+
+		
+}
+
+ul.dropdown-menu {
+	background:rgba(255,255,255,0.33);
+	
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"
+}
+
+
+
+a {
+	color:rgba(0,127,247,1.00)
+}
+
+
+
+a.dropdown-toggle {
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"
+}
+
+
+
+li {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"
+}
+
+
+
+
